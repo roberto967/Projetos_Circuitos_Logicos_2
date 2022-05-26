@@ -1,0 +1,21 @@
+|fechadura
+X => senha.DATAB
+X => senha.DATAB
+X => senha.DATAB
+X => senha.DATAB
+X => senha.DATAB
+X => senha.DATAB
+LedVermelho <= LedVermelho.DB_MAX_OUTPUT_PORT_TYPE
+LedVerde <= LedVerde.DB_MAX_OUTPUT_PORT_TYPE
+clock => count[0].CLK
+clock => count[1].CLK
+clock => count[2].CLK
+clock => senha[0].CLK
+clock => senha[1].CLK
+clock => senha[2].CLK
+clock => senha[3].CLK
+clock => senha[4].CLK
+clock => senha[5].CLK
+clock => estado_atual~2.DATAIN
+
+

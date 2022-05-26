@@ -1,0 +1,29 @@
+|contador
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+clk => estado_atual~2.DATAIN
+reset => estado_atual~4.DATAIN
+OUT[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+OUT[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+OUT[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+OUT[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+OUT[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+OUT[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+OUT[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+OUT[7] <= <GND>
+
+

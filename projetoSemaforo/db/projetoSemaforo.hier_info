@@ -1,0 +1,36 @@
+|projetoSemaforo
+clock => cont[0].CLK
+clock => cont[1].CLK
+clock => cont[2].CLK
+clock => estado_atual~2.DATAIN
+reset => cont[0].ACLR
+reset => cont[1].ACLR
+reset => cont[2].ACLR
+reset => estado_atual~4.DATAIN
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => cont.OUTPUTSELECT
+modo => cont.OUTPUTSELECT
+modo => cont.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => estado_atual.OUTPUTSELECT
+modo => Selector0.IN3
+modo => Selector0.IN4
+modo => Selector0.IN5
+modo => Selector2.IN4
+modo => Selector1.IN3
+modo => Selector1.IN4
+modo => Selector1.IN5
+modo => Selector4.IN3
+redA <= redA.DB_MAX_OUTPUT_PORT_TYPE
+yellowA <= yellowA.DB_MAX_OUTPUT_PORT_TYPE
+greenA <= greenA.DB_MAX_OUTPUT_PORT_TYPE
+redB <= redB.DB_MAX_OUTPUT_PORT_TYPE
+yellowB <= yellowB.DB_MAX_OUTPUT_PORT_TYPE
+greenB <= greenB.DB_MAX_OUTPUT_PORT_TYPE
+
+

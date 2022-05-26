@@ -1,0 +1,7 @@
+
+State Machine - |maquinaDeCafe|estados
+Name estados.estado_final estados.estado_enchendo_l estados.estado_enchendo_c estados.estado_inicial 
+estados.estado_inicial 0 0 0 0 
+estados.estado_enchendo_c 0 0 1 1 
+estados.estado_enchendo_l 0 1 0 1 
+estados.estado_final 1 0 0 1 

@@ -1,0 +1,6 @@
+
+State Machine - |fechadura|estado_atual
+Name estado_atual.INATIVO estado_atual.ABERTO estado_atual.ERRO 
+estado_atual.INATIVO 0 0 0 
+estado_atual.ERRO 1 0 1 
+estado_atual.ABERTO 1 1 0 

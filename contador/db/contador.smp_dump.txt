@@ -1,0 +1,19 @@
+
+State Machine - |contador|estado_atual
+Name estado_atual.estado_8 estado_atual.estado_0 estado_atual.estado_9 estado_atual.estado_3 estado_atual.estado_A estado_atual.estado_7 estado_atual.estado_B estado_atual.estado_6 estado_atual.estado_5 estado_atual.estado_E estado_atual.estado_C estado_atual.estado_F estado_atual.estado_D estado_atual.estado_4 estado_atual.estado_1 estado_atual.estado_2 
+estado_atual.estado_2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+estado_atual.estado_1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+estado_atual.estado_4 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+estado_atual.estado_D 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+estado_atual.estado_F 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+estado_atual.estado_C 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+estado_atual.estado_E 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+estado_atual.estado_5 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+estado_atual.estado_6 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+estado_atual.estado_B 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+estado_atual.estado_7 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+estado_atual.estado_A 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+estado_atual.estado_3 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+estado_atual.estado_9 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+estado_atual.estado_0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+estado_atual.estado_8 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
